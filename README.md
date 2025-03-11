@@ -1,5 +1,5 @@
 # Coffee-Store-Analysis
-smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg
+(smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
 
 
 ## Overview : 
